@@ -5,6 +5,7 @@
 
 **代码区块**  
 代码区块使用4个空格或者制表符（Tab键）。例如：
+
 	<?php
 	echo 'RUNOOB';
 	function test() {
