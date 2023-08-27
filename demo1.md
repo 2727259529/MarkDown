@@ -70,6 +70,6 @@
 	1.2 elppa
 	
 	2.1 four kongge
-	2.2 do it
+	2.2 do it now
 	
 	
